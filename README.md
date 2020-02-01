@@ -22,7 +22,7 @@ Al momento lo sviluppo dell'applicazione è terminato. Ma, siccome esiste già l
 [Paypal > Mauro Marini](https://paypal.me/marinimau)
 
 ## Screenshots
-
+[Home-Dark](blob:https://web.telegram.org/5d550d10-da41-a342-a78c-c5c066153f00)
 
 ## Authors
 
