@@ -36,7 +36,7 @@ Al momento lo sviluppo dell'applicazione è terminato. Ma, siccome esiste già l
 
 ![Home light iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.25.03.png)
 
-![Home Dark iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.59.png)
+![Home Dark iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/home_modal_dark.png)
 
 ![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2013.30.12.png)
 ![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/search_ios.png)
