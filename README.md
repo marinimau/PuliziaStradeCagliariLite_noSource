@@ -23,26 +23,26 @@ Al momento lo sviluppo dell'applicazione è terminato. Ma, siccome esiste già l
 
 ## Screenshots
 ### Android
-![Home1](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141650.gif)
+![Home1](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141650.gif =250x)
 
-![Home2](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141709.gif)
+![Home2](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141709.gif =250x)
 
-![HomeDark](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/android_home_dark.jpg)
-![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/search1.jpg)
-![ProfiloDark](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/android_profilo_dark.jpg)
+![HomeDark](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/android_home_dark.jpg =250x)
+![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/search1.jpg =250x)
+![ProfiloDark](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/android_profilo_dark.jpg =250x)
 
 
 ### iOS
 
-![Home light iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.25.03.png)
+![Home light iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.25.03.png =250x)
 
-![Home Dark iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.59.png)
+![Home Dark iOS](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.59.png =250x)
+
+![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2013.30.12.png =250x)
+![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/search_ios.png =250x)
 
 ![profilo](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.51.png)
-![profilo](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.56.png)
-
-![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2013.30.12.png)
-![Cerca](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/search_ios.png)
+![profilo](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20-%202020-02-01%20at%2014.24.56.png =250x)
 
 
 ## Authors
