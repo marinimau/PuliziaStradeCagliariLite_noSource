@@ -23,7 +23,7 @@ Al momento lo sviluppo dell'applicazione è terminato. Ma, siccome esiste già l
 
 ## Screenshots
 ### Android
-![Home1](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141650.gif =250x)
+![Home1](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141650.gif=250x)
 
 ![Home2](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/WhatsAppVideo2020-02-01at141709.gif =250x)
 
