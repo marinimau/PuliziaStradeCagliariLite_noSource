@@ -1,5 +1,7 @@
 # Pulizia Strade Cagliari Lite
 
+![icon](https://github.com/marinimau/PuliziaStradeCagliariLite_noSource/blob/master/assets/icon.png)
+
 Lite version of Pulizia Strade Cagliari. It is written using React-Native (and other technologies from [Facebook OpenSource](https://opensource.facebook.com)).
 It works similar to Pulizia Strade Cagliari, but for use this version it is not needed to subscribe theirs cars. 
 The only thing that the user has to do is the subscription to one (or many) street (s). The UI is extrimely simple in such a way that it can be used easily by everyone.
